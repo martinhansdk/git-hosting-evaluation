@@ -7,8 +7,7 @@ Check out `home-assistant.io <https://home-assistant.io>`__ for `a
 demo <https://home-assistant.io/demo/>`__, `installation instructions <https://home-assistant.io/getting-started/>`__,
 `tutorials <https://home-assistant.io/getting-started/automation/>`__ and `documentation <https://home-assistant.io/docs/>`__.
 
-.. figure:: docs/screenshots.png
-   :width: 400px
+.. image:: docs/screenshots.png
 
 Featured integrations
 ---------------------
