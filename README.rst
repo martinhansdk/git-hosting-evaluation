@@ -8,7 +8,7 @@ demo <https://home-assistant.io/demo/>`__, `installation instructions <https://h
 `tutorials <https://home-assistant.io/getting-started/automation/>`__ and `documentation <https://home-assistant.io/docs/>`__.
 
 .. figure:: docs/screenshots.png
-   :width: 800px
+   :width: 400px
 
 Featured integrations
 ---------------------
