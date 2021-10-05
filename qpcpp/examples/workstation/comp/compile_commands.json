@@ -1,0 +1,28 @@
+[
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-g",
+            "-O",
+            "-fno-pie",
+            "-std=c++11",
+            "-pedantic",
+            "-Wall",
+            "-Wextra",
+            "-fno-rtti",
+            "-fno-exceptions",
+            "-I.",
+            "-I../../../include",
+            "-I../../../src",
+            "-I../../../ports/posix-qv",
+            "-DQP_API_VERSION=9999",
+            "-DQ_SPY",
+            "-o",
+            "build_spy/bsp.o",
+            "bsp.cpp"
+        ],
+        "directory": "/home/martin/extcode/qpcpp/examples/workstation/comp",
+        "file": "bsp.cpp"
+    }
+]
